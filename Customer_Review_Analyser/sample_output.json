@@ -1,0 +1,32 @@
+{
+  "overall_sentiment": "Mixed",
+  "estimated_rating_out_of_5": 3.8,
+  "one_line_verdict": "Strong product quality and support, held back by delivery, packaging and returns problems.",
+  "summary": "Customers like the product quality, value and responsive support. Complaints focus on late deliveries, damaged packaging, an unstable order-tracking app and a confusing return process.",
+  "top_positives": [
+    "Excellent product quality that matches the description",
+    "Helpful and quick customer support",
+    "Easy setup and good value for the features"
+  ],
+  "top_negatives": [
+    "Packaging arrives damaged",
+    "Delivery slower than promised",
+    "Order-tracking app crashes"
+  ],
+  "customer_pain_points": [
+    "Delivery delays beyond the promised date",
+    "Confusing and slow return process",
+    "Unreliable order tracking"
+  ],
+  "business_suggestions": [
+    "Improve packaging and review courier performance",
+    "Fix the app crash and make tracking reliable",
+    "Simplify the returns workflow"
+  ],
+  "best_for": [
+    "Buyers who prioritise product quality",
+    "Customers who value responsive support",
+    "Users who want an easy setup"
+  ],
+  "keywords": ["quality", "delivery", "packaging", "support", "price", "returns", "app"]
+}
