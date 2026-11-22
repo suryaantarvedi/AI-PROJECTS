@@ -1,0 +1,24 @@
+# Core PDF + data handling
+pymupdf
+pandas
+tabulate          # needed by DataFrame.to_markdown() for table extraction
+pillow
+
+# LLM + vector database
+groq
+pinecone>=5.0.0   # package name is "pinecone" (NOT "pinecone-client")
+
+# LangChain integrations
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-pinecone
+
+# Embedding model runtime (all-MiniLM-L6-v2)
+sentence-transformers
+
+# Config + notebook tooling
+python-dotenv
+ipython
+ipykernel
+jupyter
